@@ -100,7 +100,7 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 
 ### Free!
 
-- [Free! Series × Iwami Town 2026](https://www.iwamikanko.org/free-iwami2026/) - The Iwami Town Tourism Association's official continuation of its long-running collaboration with the series, documenting events and local sites used as location references for *Free!* and *High Speed! Free! Starting Days*.
+- [Free! Series × Iwami Town 2026](https://www.iwamikanko.org/free-iwami2026/) - The Iwami Town Tourism Association's current official collaboration hub, with 2026 events and documentation of Iwami Junior High School as a location reference for *High Speed! Free! Starting Days*.
 
 ### Hyouka
 
@@ -112,7 +112,11 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 
 ### Liz and the Blue Bird
 
+- [Dis/joint: Unification of Sound, Music, Narrative, and Animation in Liz and the Blue Bird](https://doi.org/10.5749/mech.13.2.0026) - Paul Ocone's 2021 *Mechademia: Second Arc* article examining the film through the integration of sound, music, narrative, and animation.
+- [Kensuke Ushio Interview on Liz and the Blue Bird](https://www.lisani.jp/0000075376/) - A Japanese-language interview with the composer on the film's concept work, decalcomania-derived score, recordings of school objects, and close synchronization of music with footsteps and movement.
 - [Liz and the Blue Bird - Making Videos](https://liz-bluebird.com/news/?id=36) - An official collection of making-of videos covering photography, digital paint, character animation, instrument performance, music, and conversations with director Naoko Yamada and author Ayano Takeda.
+- [Liz and the Blue Bird Music Catalog](https://lantis.jp/title/52844c9148fac1284a0e2e47ab412f8e/all.html) - Lantis' official music catalog for the film, linking Homecomings' ending theme *Songbirds* and Kensuke Ushio's original soundtrack *girls,dance,staircase*.
+- [Naoko Yamada Director Interview](https://liz-bluebird.com/interview/) - An official interview on adapting Mizore and Nozomi's story, character design and acting choices, Reiko Yoshida's screenplay, performance reference, sound, and the film's music.
 
 ### Lucky Star
 
@@ -134,7 +138,7 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 
 ### Tamako Market
 
-- [Demachi Masugata Shopping Street: Tamako Market](https://masugata.demachi.jp/tamakomarket/) - The shopping street that inspired Usagiyama's official memorial page, with local photographs, a cast interview, surviving series references around the arcade, and practical information for visiting the real-world model.
+- [Demachi Masugata Shopping Street: Tamako Market](https://masugata.demachi.jp/tamakomarket/) - The shopping street's dedicated *Tamako Market* page, with an Aya Suzaki interview, photographs, surviving series displays and references around the arcade, and practical visitor information.
 
 ### The Melancholy of Haruhi Suzumiya
 
