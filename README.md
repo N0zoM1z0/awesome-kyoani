@@ -12,9 +12,16 @@ Kyoto Animation is a Japanese animation studio producing television series, film
 - [Music and Audio](#music-and-audio)
 - [Pilgrimage and Locations](#pilgrimage-and-locations)
 - [Works](#works)
+  - [A Silent Voice](#a-silent-voice)
+  - [Free!](#free)
   - [Hyouka](#hyouka)
+  - [K-On!](#k-on)
+  - [Liz and the Blue Bird](#liz-and-the-blue-bird)
+  - [Lucky Star](#lucky-star)
   - [Nichijou](#nichijou)
   - [Sound! Euphonium](#sound-euphonium)
+  - [Tamako Market](#tamako-market)
+  - [The Melancholy of Haruhi Suzumiya](#the-melancholy-of-haruhi-suzumiya)
   - [Violet Evergarden](#violet-evergarden)
 - [Communities](#communities)
 - [Fan Projects and Tools](#fan-projects-and-tools)
@@ -87,9 +94,31 @@ _Documented real-world locations, maps, guides, and research connected to settin
 
 _Resources dedicated to individual Kyoto Animation works. Work-specific entries live here rather than being duplicated across the thematic sections above._
 
+### A Silent Voice
+
+- [A Silent Voice: Ōgaki Location Guide](https://www.ogakikanko.jp/koenokatati/movie/) - The Ōgaki Tourism Association's multilingual guide to the film's real-world location models, with scene references, addresses, photographs, and a stage map covering Ōgaki and nearby Gifu locations.
+
+### Free!
+
+- [Free! Series × Iwami Town 2026](https://www.iwamikanko.org/free-iwami2026/) - The Iwami Town Tourism Association's official continuation of its long-running collaboration with the series, documenting events and local sites used as location references for *Free!* and *High Speed! Free! Starting Days*.
+
 ### Hyouka
 
 - [Hida Takayama Hyouka Pilgrimage Course](https://www.hidatakayama.or.jp/modelCourse/detail_35.html) - The official Takayama tourism guide's two-day route through locations used as models for *Hyouka*, with maps, episode references, transit, and nearby sights.
+
+### K-On!
+
+- [Toyosato Elementary School Old School Buildings](https://global.biwako-visitors.jp/things-to-do/22079/) - The official Shiga tourism guide to the preserved school buildings used as the setting for *K-On!*, with access details and information about guided tours of normally restricted rooms and facilities.
+
+### Liz and the Blue Bird
+
+- [Liz and the Blue Bird - Making Videos](https://liz-bluebird.com/news/?id=36) - An official collection of making-of videos covering photography, digital paint, character animation, instrument performance, music, and conversations with director Naoko Yamada and author Ayano Takeda.
+
+### Lucky Star
+
+- [Anime Pilgrimage and Local Tourism Promotion: An Experience of Washimiya Town, the Sacred Place for Anime "Lucky Star" Fans](https://eprints.lib.hokudai.ac.jp/repo/huscap/all/38541/) - A Hokkaido University research paper examining the development of *Lucky Star* pilgrimage, local tourism promotion, fan participation, and community response in Washimiya.
+- [Creating New Tourism Resources in Regions by Promoting "Anime Pilgrimages" by Anime Fans](https://group.kadokawa.co.jp/global/sustainability/project/animetourism.html) - KADOKAWA's case study of Washimiya explains how fans, local businesses, the production committee, and rights holders built a sustained tourism relationship around *Lucky Star*.
+- [Lucky Star Mikoshi Website](https://luckystar.wasimiya.com/ja/) - The long-running community archive for the *Lucky Star* portable shrine in Washimiya, with its history, procession records, galleries, participation information, and current local festival activity.
 
 ### Nichijou
 
@@ -102,6 +131,14 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 - [Keihan Railway × Sound! Euphonium](https://www.keihan.co.jp/euphonium/) - The railway operator's recurring collaboration hub for the Uji-set series, including a stage-exploration map linking scenes and real-world locations around the city.
 - [Kyoto Animation and Hibike! Euphonium, From the Past to the Future](https://blog.sakugabooru.com/2024/07/19/kyoto-animation-and-hibike-euphonium-from-the-past-to-the-future-final-production-notes/) - Uses the conclusion of *Sound! Euphonium 3* to connect the series' production history, Uji setting, studio legacy, lost staff, and Kyoto Animation's post-2019 future.
 - [The Making of Sound! Euphonium's Performance Scenes](https://blog.sakugabooru.com/2017/04/10/the-making-of-sound-euphoniums-performance-scenes/) - Examines the reference performances, instrument accuracy, animation supervision, and production methods behind the series' concert scenes.
+
+### Tamako Market
+
+- [Demachi Masugata Shopping Street: Tamako Market](https://masugata.demachi.jp/tamakomarket/) - The shopping street that inspired Usagiyama's official memorial page, with local photographs, a cast interview, surviving series references around the arcade, and practical information for visiting the real-world model.
+
+### The Melancholy of Haruhi Suzumiya
+
+- [The Melancholy of Haruhi Suzumiya × JR Central 20th Anniversary Campaign](https://nishinomiya-kanko.jp/event/1653/) - Nishinomiya Tourism Association's official 2026 campaign page documents a six-location pilgrimage stamp rally, local exhibitions, and other anniversary activities connecting the series with its real-world setting.
 
 ### Violet Evergarden
 
@@ -127,6 +164,7 @@ _Documented fan-maintained archives, databases, utilities, indexes, and other re
 
 _Substantive interviews, production commentary, criticism, academic work, and long-form research about Kyoto Animation, its creators, and its craft._
 
+- [Affective Transformation: Other-power and the Community of Peers in Works by Kyoto Animation](https://iopn.library.illinois.edu/journals/jams/article/view/878) - A scholarly article in the *Journal of Anime and Manga Studies* that develops a studio-wide thematic reading across *Haruhi Suzumiya*, *Beyond the Boundary*, *A Silent Voice*, and *Miss Kobayashi's Dragon Maid*.
 - [Animétudes: Kyoto Animation](https://animetudes.com/tag/kyoto-animation/) - Collects long-form writing on Kyoto Animation's aesthetics, directors, animation history, and individual works as part of a broader animation-research publication.
 - [Kyoto Animation Research Bibliography](https://crd.ndl.go.jp/reference/detail?page=ref_view&id=1000324241) - A National Diet Library reference case assembling books, papers, and articles for researching Kyoto Animation and several of its major works.
 - [Kyoto Animation's History in Communicating With Fans](https://blog.sakugabooru.com/2019/11/05/kyoto-animations-history-in-communicating-with-fans-the-anibaka-staff-blog/) - Reconstructs the history and role of Kyoto Animation's long-running Anibaka staff blog as a window into studio culture and direct communication with fans.
